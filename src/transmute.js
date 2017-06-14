@@ -3,4 +3,4 @@
 /**
  * CONSOLE OUTPUT
  */
-console.log('Finished...');
+console.log('This repo is used only for testing and development');
